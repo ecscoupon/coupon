@@ -5,7 +5,7 @@ Vmiss提供中国香港、日本、韩国和美国等四大机房云服务器产
 # VMISS最新优惠码
 为减轻用户购买负担，2024新春期间，Vmiss商家推出最新促销代码，购买所有Vmiss日本机房、韩国BGP线路、美国BGP线路云服务器均可享受八折优惠，而且续费优惠。
 
-<strong>优惠码：<a title="点击复制优惠码购买" href="http://www.idccoupon.com/vmiss" target="_blank" rel="noopener"><button class="itemCopy CopyStyle" type="button" data-clipboard-text="20%off">20%off</button></a></strong>
+<strong>优惠码：最新优惠码访问http://www.idccoupon.com/12701.html</strong>
 
 <strong>优惠幅度：</strong>永久八折优惠
 
@@ -13,7 +13,7 @@ Vmiss提供中国香港、日本、韩国和美国等四大机房云服务器产
 
 <strong>有效期：</strong>长期有效。
 
-由于VMISS优惠码及库存信息具有时效性，最新更新可以访问http://www.idccoupon.com/12701.html
+由于VMISS优惠码及库存信息具有时效性，
 <h2><span style="color: #33cccc;">VMISS热门促销套餐方案</span></h2>
 Vmiss提供四大机房多款云服务器方案，而有些方案租用性价比较高，库存量有限，很是受欢迎。所以本文整理一些比较热门的云服务器方案（以下方案均可以使用优惠码）。提示：<span style="color: #ff0000;">1加拿大元=5.2人民币</span>。
 
